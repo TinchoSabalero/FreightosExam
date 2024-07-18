@@ -11,6 +11,7 @@ Pasos a seguir:
 - Ejecutar comando: chmod -R 775 /var/www/storage /var/www/bootstrap/cache
 - Ejecutar comando: composer setup
 - Importar la db en el phpmyadmin: http://localhost:8080/
+- Usar user: root y password: root, para usar el phpmyadmin
 
 Endpoints:
     Ejecutar en postman preferentemente.
