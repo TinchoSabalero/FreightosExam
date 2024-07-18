@@ -3,7 +3,7 @@ Requisitos:
 
 Pasos a seguir:
 - Clonar el repositorio con el comando: git clone https://github.com/TinchoSabalero/FreightosExam.git
-- Ejecutar el comando: cd laravel-docker
+- Ejecutar el comando: cd FreightosExam/laravel/
 - Levantar el servidor con el comando: docker compose up -d --build
 - Dar permisos con el comando: docker compose exec phpmyadmin chmod 777 /sessions
 - Ejecutar comando: docker compose exec php bash
